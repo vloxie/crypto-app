@@ -17,6 +17,8 @@ The to access the front end nuxt application you can visit `http://frontend.loca
 
 The nuxt end will communicate with the back end API using the following url `http://backend.localhost`.
 
+to stop the env run `make stop`
+
 **NOTE** It can take a few minutes for the front end to start, once started you will be able to make changes with hot reloading
 
 ## Front End
