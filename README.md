@@ -1,5 +1,12 @@
 ## Local Development
 
+### Prerequisites
+
+* Docker
+* Docker-compose
+
+### Setup
+
 To run the project locally run the following commands fromm the route of the project:
 ```
 make install
